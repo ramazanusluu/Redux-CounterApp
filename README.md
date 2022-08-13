@@ -1,3 +1,3 @@
 # Redux
 
-Redux ile geliştirdiğim Counter App uygulamasının bulunduğu repodur.
+React ile Redux kullanarak geliştirdiğim Counter App uygulamasının yer aldığı repodur.
